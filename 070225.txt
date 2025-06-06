@@ -1,0 +1,41 @@
+Lines whose frequence is exact or ranges between certain values (63, 90 (E), 145, 331, 332, 333, 334, 339, 341): frequencies
+
+63E: 12, 13, 1, 13, 7, 8
+63W: 13, 4, 6, 8, 5, 6, 11, 9, 3
+90E: 10, 8, 18
+90W: 5, 3, 19, 13, 7, 15
+145E: 22, 13, 11, 15
+145W: 6, 12, 15, 4, 10, 10, 6, 6
+312AE: 30 
+312AW: 24
+331E: 9, 13, 12, 11, 16, 8
+331W: 12, 12, 19, 6, 23
+332E: 25, 17
+332W: 14, 21, 5, 18
+333E: 26, 13, 6
+333W: 4, 6, 12, 10, 13, 7, 19 
+334E: 14, 12, 9, 11, 15, 11
+334W: 7, 17, 12, 2, 21, 5
+339E: 23, 26
+339W: 20
+341E: 15, 14, 16, 34
+341W: 6, 19, 13, 12, 15
+
+Rest of lines and their deviation in minutes compared with theoretical schedules, taking into account the estimated duration of trips between origin and the point of observations, only for westbound observations: 
++ Means delay, - means ahead of schedule
+312: +5, -3, +6, -3
+312A: +8
+313: -5, 0
+326: -2, +6
+336: +6
+337: -9, 0
+351, 352, 353: +10, +11, +8, +15, +12
+
+Deviations of urban lines with respect to their average theoretical frequences (11' for 63, 13' for 145, 14' for E):
+63: 1, 2, -10, 2, 4, 3, 2, -7, -5, -3, -6, 0, -2, -8
+90: -4, -6, 4
+145: 9, 0, -2, 2, -7, -1, 2, -9, -3, -3, -7, -7
+
+Deviations of lines 339 and 341 (in the case of 341, since frequencies differ depending on the destination, as well as on the time: from 9:30 aprox. frequencies are heavily reduced): 
+339: -2, 1, -5
+341: -1, 0, 2, 15, -7, 6, 0, -1, 2
